@@ -93,3 +93,6 @@ tftp openwrt-24.10.3-ipq40xx-generic-zte_mf286d-initramfs-zImage_by_ilblogdicris
 
 bootm $loadaddr 
 </pre>
+
+# Visit my blog
+https://www.ilblogdicristiangallo.com
